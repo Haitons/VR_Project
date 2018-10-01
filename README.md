@@ -102,3 +102,9 @@
 
 ## 运行结果
 
+![image](https://github.com/Haitons/VR_Project/raw/master/a.png)
+
+天空开始下雪，太阳开始运动。雪落在地面上会弹起，落在雪人和树上会消融。可通过键盘控制太阳落山速度
+
+###2016.06
+
